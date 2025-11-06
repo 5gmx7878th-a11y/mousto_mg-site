@@ -1,0 +1,22 @@
+html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mousto.MG</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Mousto MG" style="width: 150px;">
+    <h1>Mousto.MG</h1>
+    <p>Créateur de contenu | Artiste | Galant</p>
+  </header>
+  <main>
+    <section>
+      <h2>À propos</h2>
+      <p>Bienvenue sur mon site officiel. Ici, tu trouveras mes projets, mes réseaux sociaux, et plus encore.</p>
+    </section>
+  </main>
+</body>
+</html>
