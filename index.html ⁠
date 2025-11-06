@@ -8,14 +8,14 @@ html
 </head>
 <body>
   <header>
-    <img src="73a0556d-47a3-43f2-8064-a7feead9c107.jpeg" alt="Mousto MG" style="width: 150px;">
+    <img src="logo.png" alt="Mousto MG" style="width: 120px; margin-bottom: 20px;">
     <h1>Mousto.MG</h1>
     <p>Créateur de contenu | Artiste | Galant</p>
   </header>
   <main>
     <section>
       <h2>À propos</h2>
-      <p>Bienvenue sur mon site officiel. Ici, tu trouveras mes projets, mes réseaux sociaux, et plus encore.</p>
+      <p>Bienvenue sur mon site officiel. Ici vous trouverez tout mon univers.</p>
     </section>
   </main>
 </body>
